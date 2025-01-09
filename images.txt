@@ -4,3 +4,4 @@ opengrok/docker
 --platform=linux/arm64 xiaoyaliu/alist
 #ubt
 ubuntu:18.04
+python:3.9-buster
