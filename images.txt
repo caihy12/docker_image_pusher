@@ -5,3 +5,4 @@ opengrok/docker
 #ubt
 ubuntu:18.04
 python:3.9-buster
+neo4j:5.20
