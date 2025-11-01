@@ -3,4 +3,4 @@ opengrok/docker
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 #ubt
-apacherocketmq/rocketmq-dashboard:2.1.0
+docker pull python:3.11-slim
